@@ -344,7 +344,7 @@ footer a { color: white; }
     .menu-icon {
         padding: 10px 15px;
         /* background: #000000c4; */
-        background-color: transperant;
+        background-color: transparent;
         border: 1px solid;
         color: #ffffff;
         cursor: pointer;
