@@ -345,9 +345,10 @@ footer a { color: white; }
     
     .menu-icon {
         padding: 10px 15px;
-        background: #000000c4;
+        #background: #000000c4;
+        background-color: transperant;
         border: 1px solid;
-        color: #33ccff;
+        color: #ffffff;
         cursor: pointer;
         margin-top: 4px;
         margin-left: 4px;
